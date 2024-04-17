@@ -1,0 +1,10 @@
+ctransformers
+sentence-transformers
+langchain
+langchain_community
+flask
+huggingface_hub
+PyPDF
+chromadb
+openai
+-e .
